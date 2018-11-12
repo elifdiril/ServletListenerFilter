@@ -1,0 +1,12 @@
+body{
+    font-style: italic;
+}
+input[type=text]{
+    height: 50px;
+    width: 205px;
+    border: 2px solid #7c1c35;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-color: #f9ff2c;
+    text-align: right;
+}
